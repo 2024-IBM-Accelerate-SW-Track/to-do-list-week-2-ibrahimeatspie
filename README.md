@@ -1,6 +1,6 @@
 ## How I went above and beyond
 The base assignment holds the version that passes tests, but this time I wanted to go above and beyond by actually 
-deploying the website. You can find it [here: ](https://todolistdeployed.vercel.app/). I added authentication so that your tasks are tied to your account
+deploying the website. You can try it [here: ](https://todolistdeployed.vercel.app/). Here's a [video](https://www.loom.com/share/16d32800185544359268189bc4787d04?sid=f2a5823f-a50a-4e9f-b989-d35e5e68649b)! I added authentication so that your tasks are tied to your account
 and no one else can access them. Additionally, I used react query to manage the data fetching, so that I can implement loading states and also increase efficiency (as compared to using useEffect).
 Finally, it was deployed on Vercel. Try it out!
 
