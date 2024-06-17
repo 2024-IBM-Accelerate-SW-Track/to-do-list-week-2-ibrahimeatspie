@@ -1,3 +1,11 @@
+## How I went above and beyond
+The base assignment holds the version that passes tests, but this time I wanted to go above and beyond by actually 
+deploying the website. You can find it [here: ](https://todolistdeployed.vercel.app/). I added authentication so that your tasks are tied to your account
+and no one else can access them. Additionally, I used react query to manage the data fetching, so that I can implement loading states and also increase efficiency (as compared to using useEffect).
+Finally, it was deployed on Vercel. Try it out!
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/r9S7wyqT)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15267732&assignment_repo_type=AssignmentRepo)
 # Project Week 2: To-do list application (Cont.)
